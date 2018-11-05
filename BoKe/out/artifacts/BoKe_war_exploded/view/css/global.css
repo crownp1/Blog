@@ -1,0 +1,50 @@
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+body,td,th {
+	font-size: 12px;
+	color: #485052;
+}
+
+hr {
+	border-width: 1px;
+	border-style: inherit;
+	border-color: black;
+}
+
+.inputtext {
+	width: 140px;
+	height: 20px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.inputbutton {
+	border-style: solid;
+	border-color: steelblue;
+	font-size: 12px;
+	cursor: hand;
+	border-width: 1px;
+	width: 60px;
+}
+
+.blogdiv {
+	width: 90%;
+	border-style: solid;
+	border-width: 1;
+	border-color: #808080;
+	margin-bottom: 15px;
+}
